@@ -1,8 +1,8 @@
 {
-    "url": "https://github.com/leomilitz/poc-xss-swagger/poc.yaml",
+    "url": "https://raw.githubusercontent.com/leomilitz/poc-xss-swagger/main/poc.yaml",
     "urls": [
         {
-            "url": "https://github.com/leomilitz/poc-xss-swagger/poc.yaml",
+            "url": "https://raw.githubusercontent.com/leomilitz/poc-xss-swagger/main/poc.yaml",
             "name": "Foo"
         }
     ]
